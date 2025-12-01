@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             name: "Guardian Node",
             description: "The central nervous system of your secure home. AI-driven processing with quantum-resistant encryption.",
-            image: "assets/guardian_node_1764615343990.png" 
+            image: "assets/guardian_node_1764615343990.png"
         },
         {
             name: "Guardian Ring",
@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "Guardian Core",
-            description: "Infinite power solution. Zero-point energy containment for all Guardian devices.",
+            description: "Infinite power solution. Zero-point energy containment for all RESQNET devices.",
             image: "assets/guardian_core_1764615526654.png"
         },
         {
